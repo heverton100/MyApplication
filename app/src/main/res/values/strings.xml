@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
-
+    <string name="account_name">Login</string>
+    <string name="pass">Pass</string>
+    <string name="pass_hint">***********</string>
+    <string name="forgot_login">Forgot your login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="remember_pass">Remember my Pass</string>
+    <string name="username">Username</string>
 </resources>
