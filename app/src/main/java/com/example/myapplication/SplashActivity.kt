@@ -13,7 +13,7 @@ class SplashActivity : AppCompatActivity() {
     }
 
     fun changeToLogin(){
-        val intent = Intent (this,MainActivity::class.java)
+        val intent = Intent (this,LoginActivity::class.java)
 
         Handler().postDelayed({
             intent.change()

@@ -1,10 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="account_name">Login</string>
-    <string name="pass">Pass</string>
-    <string name="pass_hint">***********</string>
-    <string name="forgot_login">Forgot your login</string>
-    <string name="sign_in">Sign In</string>
-    <string name="remember_pass">Remember my Pass</string>
-    <string name="username">Username</string>
+
+
+    <string name="btn_signIn">Sign In</string>
+    <string name="btn_createAccount">Create Account</string>
+    <string name="txt_name">Username</string>
+    <string name="txt_pass">Pass</string>
+
+    <string name="lbl_forgotPass">Forgot your password?</string>
+
 </resources>
